@@ -5,6 +5,7 @@ end
 def summon_captain_planet(arr)
   arr.map do |str|
     str.capitalize + "!"
+  end
 end
 
 def long_planeteer_calls(short_words)
